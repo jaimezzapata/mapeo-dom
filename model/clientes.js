@@ -55,5 +55,3 @@ const clientes = [
         fechaRegistro: "2024-11-15"
     }
 ];
-
-export default clientes;
