@@ -10,10 +10,9 @@ mapeo-dom/
 │   └── clientes.js          # Modelo de datos con arreglo de clientes
 ├── controller/
 │   └── clienteController.js # Controlador (lógica de negocio - vacío)
-├── pages/
-│   └── index.html           # Página principal con datos estáticos
 ├── styles/
 │   └── styles.css           # Estilos minimalistas con animaciones
+├── index.html               # Página principal con datos estáticos
 └── README.md
 ```
 
@@ -26,7 +25,7 @@ mapeo-dom/
 
 ## 🚀 Cómo Usar
 
-1. Abre el archivo `pages/index.html` en tu navegador
+1. Abre el archivo `index.html` en tu navegador
 2. La página mostrará los 6 clientes con datos estáticos
 3. El controlador está listo para implementar lógica futura
 4. El modelo contiene los datos de ejemplo
